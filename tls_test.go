@@ -10,7 +10,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/refraction-networking/utls/testenv"
+	"github.com/saucesteals/utls/testenv"
 	"io"
 	"io/ioutil"
 	"math"

@@ -5,7 +5,7 @@
 package cpu_test
 
 import (
-	"github.com/refraction-networking/utls/cpu"
+	"github.com/saucesteals/utls/cpu"
 	"runtime"
 	"testing"
 )
