@@ -1,3 +1,5 @@
+**NOTE: changes that were added to this repo were finally merged in https://github.com/refraction-networking/utls/pull/116. You can now use the upstream UTLS package instead!**
+
 # ![uTLS](logo_small.png) uTLS
 [![Build Status](https://travis-ci.org/refraction-networking/utls.svg?branch=master)](https://travis-ci.org/refraction-networking/utls)
 [![godoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/refraction-networking/utls#UConn)
